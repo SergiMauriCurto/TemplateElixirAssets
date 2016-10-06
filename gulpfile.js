@@ -19,7 +19,5 @@ elixir(mix => {
         browserSync({
         proxy: 'project.dev'
     });
-
-;
 });
 
